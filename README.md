@@ -1,5 +1,7 @@
 **Jake-Skateboard - A Custom Skateboarding Experience for FiveM**
 
+---
+
 Jake-Skateboard is a custom script for FiveM using the QB-Core framework, bringing an exciting skateboarding experience to your server. This script allows players to skateboard around the city.
 
 **Features:**
