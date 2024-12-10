@@ -17,4 +17,6 @@ Jake-Skateboard is a custom script for FiveM using the QB-Core framework, bringi
 **Dependencies:**
 - QB-Core Framework
 
+--
+
 Jake-Skateboard adds a fun and creative way for players to experience the streets in a new way. Perfect for casual cruising or trick challenges, this script enhances the overall player experience with a unique, engaging activity.
